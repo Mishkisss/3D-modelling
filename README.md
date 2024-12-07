@@ -14,7 +14,8 @@ This repository contains a variety of high-quality 3D models designed for variou
 
 ---
 
-## 📂 Repository Structure
+## 🔧 Usage
 
-Organized by categories for easy navigation:  
-
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/yourusername/3d-models-collection.git
